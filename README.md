@@ -2,7 +2,7 @@
 
 Software engineer focused on **mobile testing infrastructure**, **large-scale CI/CD**, and building systems that don’t break on Friday afternoons.
 
-- 🔭 Mobile testing (iOS / Web) & reliable pipelines  
+- 🔭 Mobile testing (Android, iOS / Web) & reliable pipelines  
 - 🌱 Modern automation (Windmill, workflow orchestration)  
 - 👯 Open-source when time and life allow  
 - ⚡ I break more 3D prints than production deployments (and that says a lot)
