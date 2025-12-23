@@ -14,7 +14,7 @@ Software engineer focused on **mobile testing infrastructure**, **large-scale CI
 
 ---
 
-## 🧠 Tech Stack (what I actually use)
+## 🧠 Tech Stack
 
 **Languages**  
 Swift · TypeScript · Python · Bash · Rust  
@@ -44,8 +44,10 @@ Grafana · SonarLint · Jira · Confluence
 
 ---
 
-## 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=pespinel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔐 Private Work Highlights
+- High-scale mobile CI pipelines (iOS & Web)
+- Test infrastructure used across multiple teams
+- Long-running private repositories with sustained contributions
 
 ---
 
