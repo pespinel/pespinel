@@ -1,10 +1,11 @@
-# 👋 Pablo Espinel
+## 👨‍💻 Software Engineer @ Telefónica Innovación Digital
 
-Software engineer focused on **mobile testing infrastructure**, **large-scale CI/CD**, and building systems that don’t break on Friday afternoons.
+Specialized in **mobile testing infrastructure**, **large-scale CI/CD**, and building systems that don't break on Friday afternoons.
 
-- 🔭 Mobile testing (Android, iOS / Web) & reliable pipelines  
-- 🌱 Modern automation (Windmill, workflow orchestration)  
-- 👯 Open-source when time and life allow  
+- 🔭 Mobile testing (Android, iOS / Web) & reliable pipelines
+- 🌱 Modern automation (Windmill, workflow orchestration)
+- 🎓 CCNA certified · iOS/Swift specialist
+- 👯 Open-source when time and life allow
 - ⚡ I break more 3D prints than production deployments (and that says a lot)
 
 ---
@@ -16,20 +17,36 @@ Software engineer focused on **mobile testing infrastructure**, **large-scale CI
 
 ## 🧠 Tech Stack
 
-**Languages**  
-Swift · TypeScript · Python · Bash · Rust  
+**Mobile & Testing**
+Swift · iOS · XCUITest · Appium · Testing frameworks
 
-**Infra / DevOps**  
-Docker · Kubernetes · GitHub Actions · Jenkins · Ansible · Nginx  
+**Infrastructure & CI/CD**
+Docker · Kubernetes · GitHub Actions · Jenkins · Ansible · Nginx
 
-**Backend / Data**  
-Django · Redis · Elasticsearch · InfluxDB  
+**Languages & Scripting**
+Swift · TypeScript · Python · Bash · Rust
 
-**Frontend / Tooling**  
-React · Next.js · Jest · ESLint  
+**Backend & Data**
+Django · Redis · Elasticsearch · InfluxDB
 
-**Observability & Delivery**  
-Grafana · SonarLint · Jira · Confluence  
+**Frontend & Tooling**
+React · Next.js · Jest · ESLint
+
+**Observability**
+Grafana · Prometheus · SonarLint
+
+---
+
+## 🌍 Languages
+- 🇪🇸 Spanish (Native)
+- 🇬🇧 English (Professional working proficiency)
+
+---
+
+## 🎓 Certifications & Learning
+- CCNA Routing & Switching (Cisco)
+- iOS Development (Swift, SwiftUI)
+- Continuous learner in DevOps and cloud infrastructure
 
 ---
 
