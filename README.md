@@ -1,85 +1,53 @@
-## 👨‍💻 Software Engineer @ Telefónica Innovación Digital
+# Hi, I'm Pablo 👋
 
-Specialized in **mobile testing infrastructure**, **large-scale CI/CD**, and building systems that don't break on Friday afternoons. Lately also deep into **AI engineering** — agents, RAGs, and making LLMs actually useful in production.
+📍 Valladolid, Spain &nbsp;|&nbsp; 💼 Senior Software Engineer @ Telefónica Innovación Digital
 
-- 🔭 Mobile testing (Android, iOS / Web) & reliable pipelines
-- 🤖 AI Agents · RAG systems · Model Context Protocol (MCP)
-- 🌱 Modern automation (Windmill, workflow orchestration)
-- 🛠️ iOS/Swift specialist · DevOps & cloud infrastructure
-- 👯 Open-source when time and life allow
-- ⚡ I break more 3D prints than production deployments (and that says a lot)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6B4FBB?style=flat&logoColor=white)
 
----
+*10+ years in iOS/Swift, now deep into AI engineering — building mobile test infrastructure at scale by day,
+shipping agents and breaking 3D prints by night. Focused on making LLMs actually useful in production.*
 
-## 🌐 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-espinel-caballero)
-
----
-
-## 🧠 Tech Stack
-
-**AI & LLMs**
-Claude (Anthropic) · GitHub Copilot · OpenAI API · LangChain · RAG pipelines · AI Agents · Model Context Protocol (MCP) · Prompt engineering · Vector databases
-
-**Mobile & Testing**
-Swift · iOS · XCUITest · Appium · Testing frameworks
-
-**Infrastructure & CI/CD**
-Docker · Kubernetes · GitHub Actions · Jenkins · Ansible · Nginx · Windmill
-
-**Languages & Scripting**
-Swift · TypeScript · Python · Bash · Rust
-
-**Backend & Data**
-Django · Redis · Elasticsearch · InfluxDB
-
-**Frontend & Tooling**
-React · Next.js · Jest · ESLint
-
-**Observability**
-Grafana · Prometheus · SonarLint
+🔗 [linkedin.com/in/pablo-espinel-caballero](https://linkedin.com/in/pablo-espinel-caballero)
 
 ---
 
-## 🌍 Languages
-- 🇪🇸 Spanish (Native)
-- 🇬🇧 English (Professional working proficiency)
+## Current Work
+
+- 📱 **Mobile CI/CD pipelines** — High-scale iOS & web test infrastructure used across multiple teams
+- 🤖 **AI Agents** — Agentic workflows with real production value; not just demos
+- 🔌 **Model Context Protocol (MCP)** — Integration & server development for AI tooling
+- 🌊 **Windmill/n8n** — Modern workflow orchestration replacing legacy automation
+- ⚡ **AI-powered dev tooling** — Internal tools that make developer workflows smarter
 
 ---
 
-## 🎓 Certifications & Learning
+## Stack
 
-**AI & Machine Learning**
-- Anthropic Claude — AI Engineering & Prompt Design
-- Building AI Agents & Agentic Systems
-- Retrieval-Augmented Generation (RAG) — design & implementation
-- Model Context Protocol (MCP) — integration & server development
+**AI & LLMs** · Claude · OpenAI · LangChain · RAG · MCP · Vector DBs · Prompt engineering
 
-**Networking & Systems**
-- CCNA Routing & Switching (Cisco)
+**Mobile & Testing** · Swift · iOS · SwiftUI · XCUITest · Appium
 
-**Mobile Development**
-- iOS Development (Swift, SwiftUI)
+**Infrastructure** · Docker · GitHub Actions · Jenkins · Ansible · Windmill · Nginx · n8n
+
+**Languages** · Swift · TypeScript · Python · Bash · Rust
+
+**Backend & Data** · Django · Redis · Elasticsearch · InfluxDB
+
+**Observability** · Grafana · Prometheus
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 > Includes private repositories
 
-![](https://github-readme-stats-sigma-lime-93.vercel.app/api?username=pespinel&theme=github_dark_dimmed&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=pespinel&theme=github_dark_dimmed)<br/>
-
-![](https://github-readme-stats-sigma-lime-93.vercel.app/api/top-langs/?username=pespinel&theme=github_dark_dimmed&layout=compact)
-
----
-
-## 🔐 Private Work Highlights
-- High-scale mobile CI pipelines (iOS & Web)
-- Test infrastructure used across multiple teams
-- AI-powered tooling integrated into internal developer workflows
-- Long-running private repositories with sustained contributions
-
----
+![Stats](https://github-readme-stats-sigma-lime-93.vercel.app/api?username=pespinel&theme=github_dark_dimmed&include_all_commits=true&count_private=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=pespinel&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats-sigma-lime-93.vercel.app/api/top-langs/?username=pespinel&theme=github_dark_dimmed&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=pespinel&icon=0&color=0)](https://visitcount.itsvg.in)
