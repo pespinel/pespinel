@@ -10,7 +10,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6B4FBB?style=flat&logoColor=white)
 
-*10+ years in iOS/Swift, now deep into AI engineering — building mobile test infrastructure at scale by day,
+*10+ years in mobile, now deep into AI engineering — building mobile test infrastructure at scale by day,
 shipping agents and breaking 3D prints by night. Focused on making LLMs actually useful in production.*
 
 🔗 [linkedin.com/in/pablo-espinel-caballero](https://linkedin.com/in/pablo-espinel-caballero)
@@ -19,9 +19,10 @@ shipping agents and breaking 3D prints by night. Focused on making LLMs actually
 
 ## Current Work
 
-- 📱 **Mobile CI/CD pipelines** — High-scale iOS & web test infrastructure used across multiple teams
-- 🤖 **AI Agents** — Agentic workflows with real production value; not just demos
+- 📱 **Mobile development** — High-scale iOS & web test infrastructure used across multiple teams
+- 🤖 **Applied AI** — Agent-based tools integrated into real engineering workflows
 - 🔌 **Model Context Protocol (MCP)** — Integration & server development for AI tooling
+- ⚙️ **CI/CD and developer tooling** — Automation with GitHub Actions, Jenkins and internal tooling
 - 🌊 **Windmill/n8n** — Modern workflow orchestration replacing legacy automation
 - ⚡ **AI-powered dev tooling** — Internal tools that make developer workflows smarter
 
@@ -29,13 +30,13 @@ shipping agents and breaking 3D prints by night. Focused on making LLMs actually
 
 ## Stack
 
-**AI & LLMs** · Claude · OpenAI · LangChain · RAG · MCP · Vector DBs · Prompt engineering
+**Languages** · Swift · TypeScript · Python · Bash · Rust
 
 **Mobile & Testing** · Swift · iOS · SwiftUI · XCUITest · Appium
 
-**Infrastructure** · Docker · GitHub Actions · Jenkins · Ansible · Windmill · Nginx · n8n
+**Infrastructure & Automation** · Docker · GitHub Actions · Jenkins · Ansible · Windmill · Nginx · n8n
 
-**Languages** · Swift · TypeScript · Python · Bash · Rust
+**AI & LLMs** · Claude · OpenAI · LangChain · RAG · MCP
 
 **Backend & Data** · Django · Redis · Elasticsearch · InfluxDB
 
