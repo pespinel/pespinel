@@ -28,6 +28,27 @@ shipping agents and breaking 3D prints by night. Focused on making LLMs actually
 
 ---
 
+## Open Source
+
+**My projects**
+
+- 🔐 **[SkillSeal](https://github.com/pespinel/SkillSeal)** — Lint, score and routing-test Agent Skills before your agents do · Python
+- 🎮 **[RAWGKit](https://github.com/pespinel/RAWGKit)** — Swift-native SDK for the RAWG Video Games Database API
+- 🚌 **[AuvasaKit](https://github.com/pespinel/AuvasaKit)** / **[BusVal](https://github.com/pespinel/BusVal)** — Swift SDK and unofficial iOS app for Valladolid's public transit data
+- 🔔 **[ntfy.app](https://github.com/pespinel/ntfy.app)** — Unofficial ntfy.sh iOS client
+
+**Contributing to**
+
+- 🤖 **[appium-mcp](https://github.com/appium/appium-mcp)** — MCP server for Appium mobile automation
+- 📊 **[test-reporter](https://github.com/dorny/test-reporter)** — Test results from popular frameworks, rendered in GitHub
+- 🐝 **[Shellbee](https://github.com/tashda/Shellbee)** — Native SwiftUI app for Zigbee2MQTT
+- 💶 **[Finanze](https://github.com/finanze/finanze)** — Self-hosted, privacy-first net worth tracker
+- 🏠 **[homebridge-nest](https://github.com/chrisjshull/homebridge-nest)** — Nest plugin for Homebridge
+- 🚪 **[fermax-blue-hass](https://github.com/bvis/fermax-blue-hass)** — Home Assistant integration for Fermax Blue intercoms
+- 🖥️ **[ProxMenux](https://github.com/MacRimi/ProxMenux)** — Interactive management menu for Proxmox VE
+
+---
+
 ## Stack
 
 **Languages** · Swift · TypeScript · Python · Bash · Rust
