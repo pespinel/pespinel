@@ -22,7 +22,7 @@ jobs:
           filename: metrics/overview.svg
           output_action: none
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community
           base_indepth: yes
           plugin_languages: yes
           plugin_languages_limit: 8
