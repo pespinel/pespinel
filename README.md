@@ -23,7 +23,6 @@ shipping agents and breaking 3D prints by night. Focused on making LLMs actually
 - 🤖 **Applied AI** — Agent-based tools integrated into real engineering workflows
 - 🔌 **Model Context Protocol (MCP)** — Integration & server development for AI tooling
 - ⚙️ **CI/CD and developer tooling** — Automation with GitHub Actions, Jenkins and internal tooling
-- 🌊 **Windmill/n8n** — Modern workflow orchestration replacing legacy automation
 - ⚡ **AI-powered dev tooling** — Internal tools that make developer workflows smarter
 
 ---
@@ -53,15 +52,36 @@ shipping agents and breaking 3D prints by night. Focused on making LLMs actually
 
 **Languages** · Swift · TypeScript · Python · Bash · Rust
 
-**Mobile & Testing** · Swift · iOS · SwiftUI · XCUITest · Appium
+**Mobile & Testing** · iOS · SwiftUI · XCUITest · Appium · Gherkin / BDD
 
-**Infrastructure & Automation** · Docker · GitHub Actions · Jenkins · Ansible · Windmill · Nginx · n8n
+**Infrastructure & Automation** · Docker · GitHub Actions · Jenkins · Ansible · Windmill · Nginx
 
 **AI & LLMs** · Claude · OpenAI · LangChain · RAG · MCP
 
 **Backend & Data** · Django · Redis · Elasticsearch · InfluxDB
 
 **Observability** · Grafana · Prometheus
+
+---
+
+## Certifications
+
+**AI & MCP**
+
+- **Model Context Protocol: Advanced Topics** — Anthropic (2026)
+- **Introduction to Model Context Protocol** — Anthropic (2026)
+- **AI Fluency: Framework & Foundations** — Anthropic (2026)
+- **Iniciación al desarrollo con IA** — BIG school (2026)
+
+**Networking**
+
+- **CCNA Routing & Switching** — Cisco Networking Academy (2016, 2017)
+
+---
+
+## Languages
+
+🇪🇸 Spanish (native) &nbsp;|&nbsp; 🇬🇧 English (professional working proficiency)
 
 ---
 
