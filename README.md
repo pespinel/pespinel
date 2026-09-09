@@ -69,7 +69,7 @@ shipping agents and breaking 3D prints by night. Focused on making LLMs actually
 > Includes private repositories
 
 ![Stats](https://github-readme-stats-sigma-lime-93.vercel.app/api?username=pespinel&theme=github_dark_dimmed&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=pespinel&theme=github_dark_dimmed)
+![Streak](https://streak-stats.demolab.com/?user=pespinel&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats-sigma-lime-93.vercel.app/api/top-langs/?username=pespinel&theme=github_dark_dimmed&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=pespinel&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=pespinel&color=blue&style=flat&label=Profile+views)
